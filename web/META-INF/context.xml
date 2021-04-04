@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/HelpDesk">
+<Resource
+  name="jdbc/helpdesk"
+  auth="Container"
+  type="javax.sql.DataSource"
+  maxActive="100"
+  maxIdle="30"
+  maxWait="10000"
+  username="sa"
+  password="zitiz"
+  driverClassName="net.sourceforge.jtds.jdbc.Driver"
+  url="jdbc:jtds:sqlserver://192.168.19.31:1433/HelpDesk;selectMethod=cursor" />
+</Context>

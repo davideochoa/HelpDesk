@@ -1,0 +1,95 @@
+/* 
+    Document   : HelpDesk
+    Created on : 8/12/2010, 02:28:00 PM
+    Author     : Administrador
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+ .catalogo {
+    background: url(images/book.png) no-repeat center left !important;
+ } 
+.catalogo-usuarios {
+    background: url(images/user.png) no-repeat center left !important;
+ }
+.catalogo-unidad {
+    background: url(images/building.png) no-repeat center left !important;
+ }
+ .agregar {
+    background: url(images/add2.png) no-repeat center left !important;
+ }
+ .editar {
+    background: url(images/pencil.png) no-repeat center left !important;
+ }
+.eliminar {
+    background: url(images/delete3.png) no-repeat center left !important;
+ }
+.catalogo-area {
+    background: url(images/door.png) no-repeat center left !important;
+ }
+.catalogo-tipo-reporte {
+    background: url(images/report.png) no-repeat center left !important;
+ }
+.catalogo-tipo-objeto {
+    background: url(images/brick.png) no-repeat center left !important;
+}
+.catalogo-tipo-prioridad {
+    background: url(images/star.png) no-repeat center left !important;
+}
+.catalogo-tipo-status {
+    background: url(images/color.png) no-repeat center left !important;
+}
+.impresion {
+    background: url(images/printer.png) no-repeat center left !important;
+ }
+.sistema {
+    background: url(images/application_xp.png) no-repeat center left !important;
+ }
+.catalogo-tema {
+    background: url(images/rainbow.png) no-repeat center left !important;
+}
+.actualizar {
+    background: url(images/arrow_refresh.png) no-repeat center left !important;
+ }
+.nuevo {
+    background: url(images/gnome_document_new.png) no-repeat center left !important;
+ }
+.cancelar {
+    background: url(images/cancel2.png) no-repeat center left !important;
+ }
+.grabar {
+    background: url(images/disk.png) no-repeat center left !important;
+ }
+.buscar {
+    background: url(images/magnifier.png) no-repeat center left !important;
+ }
+.aceptar{
+    background: url(images/accept2.png) no-repeat center left !important;
+ }
+.catalogo-incidencia{
+    background: url(images/bug.png) no-repeat center left !important;
+ }
+.catalogo-soporte{
+    background: url(images/wrench.png) no-repeat center left !important;
+ }
+.ver{
+    background: url(images/eye.png) no-repeat center left !important;
+ }
+ 
+ .RowRojo td {
+    background-color:#FF0000;
+    color:#FFFFFF;
+    font-weight:bold;
+}
+
+ .RowAmarillo td {
+    background-color:#FFFF00;
+}
+
+ .RowVerde td {
+    background-color:#33CC33;
+}
